@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Password Generator 🔐
 
 A simple Python script that generates a secure random password using letters and numbers.
