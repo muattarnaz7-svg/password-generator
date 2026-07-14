@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Password Generator 🔐
 
 A simple Python script that generates a secure random password using letters and numbers.
@@ -19,3 +20,7 @@ python password.py
 ```
 
 ## Example
+=======
+# password-generator
+A secure random password generator built with Python, using the secrets module for cryptographically strong randomness.
+>>>>>>> 47312231f74a16d09fa61404ecd7ac0a56ee463a
